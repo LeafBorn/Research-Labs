@@ -11,7 +11,9 @@ This project demonstrates how multiple AI agents can collaborate together like a
 - 🤖 Final LLM Agent → Produces polished final output
 
 ---
-
+<p align="center">
+  <img src="assets/banner.png" width="1000"/>
+</p>
 # 🚀 Features
 
 - Multi-Agent Architecture
