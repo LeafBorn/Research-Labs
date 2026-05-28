@@ -1,0 +1,47 @@
+# Core LLM + agent framework
+langchain
+langgraph
+langchain-core
+langchain-community
+
+# Groq integration
+langchain-groq
+groq
+
+# Tavily search integration
+langchain-tavily
+tavily-python==0.5.4
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+html5lib
+
+# Async + utilities
+httpx
+aiohttp
+python-dotenv
+
+# Structured outputs / validation
+pydantic
+
+# Token handling
+tiktoken
+
+# Optional memory/vector DB
+chromadb
+
+# Optional embeddings
+sentence-transformers
+
+# Logging & debugging
+rich
+
+# FastAPI backend (optional)
+fastapi
+uvicorn
+
+# Environment management
+python-decouple
+agents
